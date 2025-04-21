@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://kellykelvinaime:christa123@cluster0.1j8gr3b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+  "jwtSecret": "yourSecretKey"
+}
